@@ -1,0 +1,122 @@
+#header
+	{
+		height: 7%;
+		width: 100%; 
+		padding-bottom:25;
+		padding-left:100;
+		<!--padding-right: 1-->;
+		padding-top: 1;
+		background-image: url(../home/head.jpg);
+		background-repeat: no-repeat;
+	}
+	#content
+	{
+		background-color: #FFFF66;
+		height:600px;
+		width: 100%;
+		
+	}
+	#footer
+	{
+		height: 8%;
+		width: 100%;
+		position:relative;
+		top:0px;
+		padding-bottom:1%;
+		padding-left:3%;
+		padding-top: 0.3%;
+		background-image: url(../home/head.jpg);
+		background-repeat: no-repeat;
+	}
+	#rights
+	{
+		position: relative;
+		padding-top:0%;
+		background-color:black;
+		height: 7%;
+		width: 100%;
+	}
+	#copy
+	{
+		height:12%;
+		width: 25%;
+		margin-left:1000;
+	}
+	#copy1
+	{
+		height: 12%;
+		width: 25%;
+		margin-left:100;  
+	}
+	p.font
+	{
+		font:20px Algerian,Serif;
+		font-size: 26;
+		font-weight:bold;
+		color: #00ff00;
+		word-spacing: 100;
+		padding-bottom:0%;
+		padding-top: 0%;
+	}
+	}
+		
+	a
+	{
+		text-decoration:none;
+		padding-top:0px;
+	}
+	a.header: link 
+	{
+		color:red;
+	}
+	a.header: visited
+	{
+		color:green;
+	}
+	a.header:hover
+	{
+		
+		opacity: 0.8;
+		color: grey;
+		font-weight:bold;
+		text-decoration:none;
+	}
+	a.footer
+	{
+		position:relative;
+		bottom:0%;
+	}
+	a.footer: link 
+	{
+		color:red;
+	}
+	a.footer: visited
+	{
+		color:green;
+	}
+	a.footer:hover
+	{
+		
+		opacity: 0.8;
+		color: grey;
+		font-weight:bold;
+		text-decoration:none;
+	}
+
+	#footer p
+	{
+		/*position-top:5px;*/
+		margin-top:10px;
+		margin-bottom: auto;
+		margin-right:auto;
+		margin-left:85px;
+	}
+	#header p
+	{
+		/*position-top:5px;*/
+		margin-top:20px;
+		margin-bottom: auto;
+		margin-right:auto;
+		margin-left:auto;
+	}
+
